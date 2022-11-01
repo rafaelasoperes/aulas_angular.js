@@ -1,1 +1,2 @@
-//console.log("Oi mundo")
+let msg:string = "Oi"
+console.log(msg)
